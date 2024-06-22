@@ -1,7 +1,19 @@
 body{
-    background-color: aqua;
-    position: absolute;
+    background-color: rgb(147, 216, 216);
+    background-image: url("image6.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}    
+.center-header{
+    font-style: italic;
+    text-align: center;
+    
 }
-p{
-    color: black;
+
+.skill-container{
+    box-shadow: 10px;
+    border: solid ;
+    text-align: center;
+
+    padding: 5px;
 }
